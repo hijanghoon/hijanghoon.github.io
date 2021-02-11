@@ -63,10 +63,3 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
-
-
-/* 새 css class */
-.center {
-    display: block;
-    margin: auto;
-  }
