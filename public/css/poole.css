@@ -428,3 +428,9 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* 새 css class */
+.center {
+  display: block;
+  margin: auto;
+}
