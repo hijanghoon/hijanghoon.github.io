@@ -4,26 +4,16 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  공부하려고 만든 블로그, 티스토리랑 고민하고 있는데 잘한 선택인지는 1도 모르겠다. 그래도 될 수 있는 것까지는 그냥 해봐야지
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
+지킬엔 하이드 구성으로 했다. 뭔가 흑백이 깔끔해서 좋넹
 ## Setup
 
-Some fun facts about the setup of this project include:
+블로그 세팅은 아래의 공간을 참고하였으니 혹시 만들고 싶은 사람은 참고:
 
 * Built for [Jekyll](https://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+읽어주셔서 감사합니다 :)
