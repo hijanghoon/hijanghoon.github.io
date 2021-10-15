@@ -18,5 +18,4 @@ title: Palindrome Algorithm
     return True
   
   print(is_palindrome("racecar"))
-  
 </code>
