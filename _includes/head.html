@@ -3,7 +3,12 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
+  
+  <!--Google analytics-->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include google_analytics.html %}
+  {% endif %}
+  
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -35,11 +40,6 @@
     ga('create', '{{ site.google_analytics_id }}', 'auto');
     ga('send', 'pageview');
   </script>
-  {% endif %}
-  
-  <!--Google analytics-->
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include google_analytics.html %}
   {% endif %}
 
 </head>
