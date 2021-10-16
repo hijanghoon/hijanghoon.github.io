@@ -12,7 +12,9 @@ description: An archive of posts sorted by tag.
 <div id="tags">
   <span class="tag-box inline">
   {% for tag in tag_words %}
-    <span><a href="{{ tag | cgi_escape }}">{{ tag }} : <span>{{ site.tags[tag] | size }}</span></a></span>
+    <span><a href="{{ tag | cgi_escape }}">{{ tag }} : <span>{{ site.tags[tag] | size }}</span></a>
+    </span>
+    <br>
   {% endfor %}
   </span>
 
@@ -25,5 +27,6 @@ description: An archive of posts sorted by tag.
     {{ post.title }}</a></span>
     {% endif %}{% endfor %}
   </span>
+  <br>
   {% endunless %}{% endfor %}
 </div>
