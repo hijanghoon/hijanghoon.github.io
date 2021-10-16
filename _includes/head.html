@@ -36,4 +36,10 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
+  
+  <!--Google analytics-->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include google_analytics.html %}
+  {% endif %}
+
 </head>

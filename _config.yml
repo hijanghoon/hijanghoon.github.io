@@ -16,15 +16,7 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
-₩
+
 # Custom vars
 version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
-
-# Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-3V3NM35SP7"
-    anonymize_ip         : # true, false (default)
+google_analytics_id: UA-210364189-1
