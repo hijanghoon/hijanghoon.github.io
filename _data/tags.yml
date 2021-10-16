@@ -1,9 +1,11 @@
-- slug: jekyll
-  name: Jekyll
+- slug: book
+  name: book
+
+- slug: diary
+  name: diary
+
+- slug: programming
+  name: programming
 
 - slug: documentation
-  name: Documentation
-
-- slug: examples
-  name: Examples
-
+  name: documentation

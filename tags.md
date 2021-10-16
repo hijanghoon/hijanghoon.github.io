@@ -15,7 +15,7 @@ description: An archive of posts sorted by tag.
   <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
   <span class="posts">
     {% for post in site.tags[this_word] %}{% if post.title != null %}
-    <span itemscope><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span><a href="{{ post.url }}">
+    <span itemscope><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y %B, %d" }}</time></span><a href="{{ post.url }}">
     {{ post.title }}</a></span>
     <br>
     {% endif %}{% endfor %}
