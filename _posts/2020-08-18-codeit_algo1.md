@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Palindrome Algorithm
-tags: [diay]
+tags: [diary]
 ---
 ### 마켓컬리 인사이트 독후감
 
