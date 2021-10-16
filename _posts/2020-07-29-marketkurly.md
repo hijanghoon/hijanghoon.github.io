@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 마켓컬리 인사이트
+tags: [diay]
 ---
 ### 마켓컬리 인사이트 독후감
 
