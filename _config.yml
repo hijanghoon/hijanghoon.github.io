@@ -3,7 +3,7 @@ title:               장훈리
 tagline:             '공부하기 싫다'
 description:         'github로 만든 블로그 <a href="https://jekyllrb.com" target="_blank">Jekyll</a> 에서 테마를 따왔고, 독후감, 개발일지, 여러 행사에 관한 전반적인 글을 적을 예정, 아직 부족한 것이 많겠지 20200727</a>.'
 url:                 https://hijanghoon.github.io
-baseurl:             https://hijanghoon.github.io
+baseurl:             
 paginate:            10
 permalink:           pretty
 
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version:             1.1.1
 google_analytics_id: UA-210364189-1
