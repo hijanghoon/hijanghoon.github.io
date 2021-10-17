@@ -1,7 +1,7 @@
 # Setup
 title:               장훈리
 tagline:             '공부하기 싫다'
-description:         '기록하여 기억하자 20200727</a>.'
+description:         'Github로 만든 블로그 <a href="https://jekyllrb.com" target="_blank">Jekyll</a> 에서 테마를 따왔음, 기록하여 기억하자 20200727</a>.'
 url:                 https://hijanghoon.github.io
 baseurl:             
 paginate:            10
