@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 마켓컬리 인사이트
-tags: [book]
+tags: [review]
 ---
 ### 마켓컬리 인사이트 독후감
 
