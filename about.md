@@ -28,4 +28,4 @@ Lanyon 구성으로 했다. 뭔가 흑백이 깔끔해서 좋넹
 * Built for [Jekyll](https://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 
-읽어주셔서 감사합니다 :)
+instagram : @xfohun
